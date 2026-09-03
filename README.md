@@ -8,8 +8,6 @@
 ### University of North Carolina at Chapel Hill
 
 
-<br>
-<img src="./assets/method.png" alt="teaser image" width="1000"/>
 
 # 🔥 News
 - **Jun 22, 2025**. Check our [arXiv-version](https://www.arxiv.org/abs/2506.17113) for MEXA.
